@@ -6,13 +6,13 @@
 
   <groupId>in.payu.websdk1</groupId>
   <artifactId>payu-websdk1</artifactId>
-  <version>1.0.0</version>
+  <version>2.0.0</version>
   <packaging>jar</packaging>
   
 
   <name>web-sdk-java1</name>
   <description>Official java SDK for the Payu India</description>
-  <url>https://github.com/payu-intrepos/web-sdk-java</url>
+  <url>https://github.com/cti1311/web-sdk-java2</url>
 
   <developers>
     <developer>
@@ -52,7 +52,7 @@
    <repository>
      <id>github</id>
      <name>GitHub OWNER Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+     <url>https://maven.pkg.github.com/cti1311/web-sdk-java2</url>
    </repository>
 </distributionManagement>
 
